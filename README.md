@@ -1,6 +1,8 @@
 ### Alex Gibernau 🔥
 
 **'JUNIOR DEVELOPER'**
+
+
 As a junior developer in Software Development, I bring a fresh perspective and a hunger for tackling coding challenges head-on. My passion for problem-solving drives me to continuously enhance my skills in various programming languages. Eager to learn and grow, I eagerly welcome new projects and opportunities to expand my knowledge and expertise.
 
 ### Lenguages and Tools
