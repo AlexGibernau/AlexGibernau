@@ -5,7 +5,7 @@ As a junior developer in Software Development, I bring a fresh perspective and a
 
 ### Lenguages and Tools
 <img align= "left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/256/226/226777.png"/>
-<img align= "left" alt="Java" width="30px" style="padding-right:10px" src="https://www.jsdelivr.com/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align= "left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png"/>
 
 <!--
 **AlexGibernau/AlexGibernau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
