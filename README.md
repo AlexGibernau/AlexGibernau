@@ -22,8 +22,8 @@ Me apasiona resolver problemas complejos con soluciones elegantes, optimizando l
 ---
 
 ## 💻 Proyectos destacados
-- **[Proyecto 1](#)**: Breve descripción del proyecto (por ejemplo, aplicación web para gestión de tareas con Angular y TypeScript).
-- **[Proyecto 2](#)**: Breve descripción del proyecto (por ejemplo, una página web responsive para un cliente utilizando SCSS y HTML).
+- **[Luxury Barber](https://alexgibernau.github.io/luxory-barber/):**  
+  Una elegante página web para una barbería de lujo, diseñada con un enfoque en la estética moderna y la usabilidad. Implementada utilizando **HTML**, **SCSS**, y **JavaScript**, destaca por su diseño responsive y experiencia de usuario fluida. 
 - **[Más proyectos](#)**: Encuentra todos mis proyectos en mi [repositorio](#).
 
 ---
