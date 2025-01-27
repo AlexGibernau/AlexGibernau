@@ -1,25 +1,42 @@
-### Alex Gibernau 🔥
+# Alex Gibernau 🔥
 
-**'JUNIOR DEVELOPER'**
+**'FRONT-END DEVELOPER'**
 
+¡Hola! 👋 Soy Alex Gibernau, un desarrollador especializado en Frontend con experiencia en la creación de aplicaciones dinámicas, escalables y modernas. Mi principal enfoque es construir interfaces de usuario eficientes utilizando **Angular**, **TypeScript**, **HTML**, y **SCSS**.
 
-As a junior developer in Software Development, I bring a fresh perspective and a hunger for tackling coding challenges head-on. My passion for problem-solving drives me to continuously enhance my skills in various programming languages. Eager to learn and grow, I eagerly welcome new projects and opportunities to expand my knowledge and expertise.
+Me apasiona resolver problemas complejos con soluciones elegantes, optimizando la experiencia del usuario y manteniéndome siempre al día con las últimas tecnologías y mejores prácticas en desarrollo web.
 
-### Lenguages and Tools
-<img align= "left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn-icons-png.flaticon.com/256/226/226777.png"/>
-<img align= "left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png"/>
+---
 
-<!--
-**AlexGibernau/AlexGibernau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Tecnologías y herramientas
+<div>
+  <img align="left" alt="Angular" width="30px" style="padding-right:10px" src="https://angular.io/assets/images/logos/angular/angular.svg"/>
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="left" alt="SCSS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</div>
+<br/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Proyectos destacados
+- **[Proyecto 1](#)**: Breve descripción del proyecto (por ejemplo, aplicación web para gestión de tareas con Angular y TypeScript).
+- **[Proyecto 2](#)**: Breve descripción del proyecto (por ejemplo, una página web responsive para un cliente utilizando SCSS y HTML).
+- **[Más proyectos](#)**: Encuentra todos mis proyectos en mi [repositorio](#).
+
+---
+
+## 📫 Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/alex-gibernau/)  
+- [Portafolio](https://www.tuportafolio.com)
+
+---
+
+### 🚀 Siempre aprendiendo
+Actualmente, estoy explorando tecnologías relacionadas con la optimización del rendimiento en aplicaciones frontend y aprendiendo más sobre testing en Angular para mejorar la calidad de mis desarrollos.
+
+---
+
+¿Listo para construir algo increíble juntos? 😄
